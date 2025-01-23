@@ -97,7 +97,7 @@ plt.show()
 1. Clone this repository:
    ```bash
    git clone
-   https://github.com/SolidSnake1988/analytics_portfolio.git
+   https://github.com/ssmujtaba/analytics_portfolio.git
    ```
 2. Explore the SQL queries in `Vehicle Manufacturing Portfolio Code.sql`.
 3. Open `Python Code.ipynb` in Jupyter Notebook to run the Python analysis.
